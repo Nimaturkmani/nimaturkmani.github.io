@@ -227,14 +227,14 @@ font: normal normal normal 14px/1.4em lulo-clean-w01-one-bold,sans-serif; font-w
 	margin: auto;
 }
 .logoFolder{
-	padding-top: 25px;;
-	max-width: 200px;
-	max-width: 200px;
+	padding-top: 20px;;
+	max-width: 150px;
+	max-width: 150px;
 	justify-content: center;
 	align-items: center;
 	display: block;
 	margin: auto;
-	padding-bottom: 15px;
+	padding-bottom: 10px;
 }
 .linkFolder{
 	color: #FFFFFF;
