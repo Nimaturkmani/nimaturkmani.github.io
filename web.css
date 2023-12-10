@@ -275,7 +275,11 @@ font: normal normal normal 48px/1.4em lulo-clean-w01-one-bold,sans-serif; font-w
 	color: #FFFFFF;
 	letter-spacing: 0.12em;
 }
-.mys {padding-left: 39%;
+.mys {justify-content: center;
+	align-items: center;
+	display: block;
+	margin: auto;
+	padding-bottom: 10px;
 }
 .logo { height: 40px;
 	width: 40px;
