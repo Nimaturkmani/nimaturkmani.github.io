@@ -93,7 +93,7 @@ font: normal normal normal 20px/1.4em lulo-clean-w01-one-bold,sans-serif; font-w
 .object {display: grid;
 	color: #BEC7D5;
 font: normal normal normal 17px/1.4em avenir-lt-w01_35-light1475496,sans-serif;
-	padding-top: 30px;
+	padding-top: 10px;
 }
 .table1 {
 	display: inline-flex;
@@ -187,13 +187,11 @@ background-color: #00D646;
 	float:left;
 	width:700px;
 	height:250px;
-	margin-top:20px;
-	margin-bottom:5px;
+	margin-top:10px;
 	background-image:url(aboutme.jpg);
 }
 .one {
-	padding-top:10px;
-	padding-left:10px;
+	padding-top:8px;
 	font-size:120%;
 	text-align:left;
     color: #FFFFFF;
@@ -275,11 +273,9 @@ font: normal normal normal 48px/1.4em lulo-clean-w01-one-bold,sans-serif; font-w
 	display: block;
 	text-align: center;
 	color: #FFFFFF;
-	padding-top: 1%;
 	letter-spacing: 0.12em;
 }
-.mys {padding-left: 41%;
-padding-top: 1%
+.mys {padding-left: 38%;
 }
 .logo { height: 40px;
 	width: 40px;
